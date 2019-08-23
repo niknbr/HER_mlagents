@@ -12,7 +12,7 @@ To setup this project the following steps need to be taken:
 
 6. Update the settings of the brain as follows
 
-    ![brainsettings.png](https://www.dropbox.com/s/lbadtrqee8iipuf/brainsettings.png?dl=0&raw=1)
+    ![settings_brain.png](https://www.dropbox.com/s/bo3ue6l6anmox0o/settings_brain.png?dl=0&raw=1)
 
 7. Open the `Hallway` scene in projects pane under `Assets > ML-Agents > Examples > Hallway > Scenes` 
 
